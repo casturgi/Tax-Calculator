@@ -14,6 +14,7 @@
 		4ED310191B840717006CE7B8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4ED310181B840717006CE7B8 /* Images.xcassets */; };
 		4ED3101C1B840717006CE7B8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4ED3101A1B840717006CE7B8 /* LaunchScreen.xib */; };
 		4ED310281B840717006CE7B8 /* Tax_CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED310271B840717006CE7B8 /* Tax_CalculatorTests.m */; };
+		4ED310321B851DC5006CE7B8 /* woodenWallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4ED310311B851DC5006CE7B8 /* woodenWallpaper.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		4ED310211B840717006CE7B8 /* Tax CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tax CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ED310261B840717006CE7B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4ED310271B840717006CE7B8 /* Tax_CalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tax_CalculatorTests.m; sourceTree = "<group>"; };
+		4ED310311B851DC5006CE7B8 /* woodenWallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = woodenWallpaper.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		4ED3100B1B840716006CE7B8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4ED310311B851DC5006CE7B8 /* woodenWallpaper.jpg */,
 				4ED3100C1B840716006CE7B8 /* Info.plist */,
 				4ED3100D1B840716006CE7B8 /* main.m */,
 			);
@@ -201,6 +204,7 @@
 			files = (
 				4ED310171B840716006CE7B8 /* Main.storyboard in Resources */,
 				4ED3101C1B840717006CE7B8 /* LaunchScreen.xib in Resources */,
+				4ED310321B851DC5006CE7B8 /* woodenWallpaper.jpg in Resources */,
 				4ED310191B840717006CE7B8 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

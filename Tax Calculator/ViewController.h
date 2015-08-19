@@ -10,6 +10,16 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextField *textInput;
+@property (weak, nonatomic) IBOutlet UILabel *taxTotal;
+@property (weak, nonatomic) IBOutlet UILabel *priceTotal;
+@property (weak, nonatomic) IBOutlet UISegmentedControl *segmentedControl;
+
+@property double caTax;
+@property double chiTax;
+@property double nyTax;
+    
+
 
 @end
 
